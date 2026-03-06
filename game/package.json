@@ -1,0 +1,9 @@
+{
+  "name": "petri-apex",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "phaser": "3.70.0"
+  }
+}
